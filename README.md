@@ -80,7 +80,10 @@ This project represents my hands-on learning journey in SQL and data analysis us
 
 ---
 
- 
+ **🙋‍♀️ Connect With Me**
+Name - Ridam Sharma
+📎 LinkedIn: https://linkedin.com/in/your-link
+📧 Email: ridam.261205@gmail.com
 
 ---
 You can see all screenshots in project working folder
